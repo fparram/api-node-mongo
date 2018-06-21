@@ -1,0 +1,14 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "Proyecto NodeJs y MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Parra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
